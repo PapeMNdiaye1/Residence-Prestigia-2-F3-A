@@ -231,6 +231,7 @@ body {
   opacity: 0;
   background-size:90% ;
   transition: 0.7s;
+  display: none;
 // background-color: rgba($color-dark, 0.5);
   &:hover {
     transform: scale(1.1);

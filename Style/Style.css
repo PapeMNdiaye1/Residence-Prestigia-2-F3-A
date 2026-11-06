@@ -201,6 +201,7 @@ body {
   opacity: 0;
   background-size: 90%;
   transition: 0.7s;
+  display: none;
 }
 .link_to_archviz:hover {
   transform: scale(1.1);
